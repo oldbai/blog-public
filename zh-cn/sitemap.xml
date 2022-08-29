@@ -14,18 +14,6 @@
                 href="https://oldbai.com/categories/"
                 />
   </url><url>
-    <loc>https://oldbai.com/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://oldbai.com/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://oldbai.com/"
-                />
-  </url><url>
     <loc>https://oldbai.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,6 +24,18 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://oldbai.com/tags/"
+                />
+  </url><url>
+    <loc>https://oldbai.com/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://oldbai.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://oldbai.com/"
                 />
   </url>
 </urlset>
