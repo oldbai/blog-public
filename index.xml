@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>老白的博客</title>
+        <title>oldbai</title>
         <link>https://oldbai.com/</link>
-        <description>Recent content on 老白的博客</description>
+        <description>Recent content on oldbai</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://oldbai.com/index.xml" rel="self" type="application/rss+xml" />
+        <language>zh-cn</language><atom:link href="https://oldbai.com/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
